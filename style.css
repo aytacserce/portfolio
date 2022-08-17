@@ -6,7 +6,7 @@ FONT SIZE SYSTEM (px)
 */
 
 /* 
-MAIN COLOR: #087f5b
+MAIN COLOR: #6894a5
 GREY COLOR: #343a40
 */
 
@@ -22,7 +22,7 @@ GREY COLOR: #343a40
 body {
   font-family: "Inter", sans-serif;
   color: #343a40;
-  border-bottom: 8px solid #137ea8;
+  border-bottom: 8px solid #6894a5;
 }
 
 .container {
@@ -50,7 +50,7 @@ h2 {
 
 .btn:link,
 .btn:visited {
-  background-color: #137ea8;
+  background-color: #6894a5;
   color: #fff;
   text-decoration: none;
   text-transform: uppercase;
@@ -62,7 +62,7 @@ h2 {
 
 .btn:hover,
 .btn:active {
-  background-color: #46aec5;
+  background-color: #6ba2ae;
 }
 
 .btn--big {
@@ -82,12 +82,12 @@ h2 {
 
 .btn--small-inner:link,
 .btn--small-inner:visited {
-  background-color: #46aec5;
+  background-color: #6ba2ae;
 }
 
 .btn--small-inner:hover,
 .btn--small-inner:active {
-  background-color: #137ea8;
+  background-color: #6894a5;
 }
 
 img {
@@ -161,7 +161,7 @@ img {
 
 /* COURSES */
 .course-section {
-  background-color: #137ea8;
+  background-color: #6894a5;
   color: #fff;
   padding: 24px;
   border-radius: 12px;
@@ -249,7 +249,7 @@ h3 {
 }
 
 .project-icon {
-  stroke: #137ea8;
+  stroke: #6894a5;
   width: 24px;
   height: 24px;
 }
